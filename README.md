@@ -11,6 +11,7 @@
   <br><br> 
 </p>
 <img title="s1" src="(https://images2.alphacoders.com/131/1315111.jpg)" alt ="Marvel logo" width="400" />
+</p>
 <h1>Homepage</h1>
   <br>
 The Home Page consists of 5 main sections:
