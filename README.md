@@ -67,7 +67,7 @@ With the terminal available, follow the instructions below:
 
 ```bash
 # Clone the repository
-$ git clone https://github.com/JSSiddique/Netflix-Clone
+$ git clone https://github.com/danish1804/Netflix_Clone
 
 # Access the netflix-clone-reactjs folder
 $ cd netflix-ui
