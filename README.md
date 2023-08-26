@@ -10,8 +10,8 @@
   This is a clone of Netflix website built using <strong><em>React.JS</em></strong>. The project showcases a responsive UI with a navigation bar, interactive movie sections, and dynamic movie cards. It utilizes TMDB as the movie database and incorporates React Router, Hooks, and CSS Modules for efficient development.
   <br><br> 
 </p>
-<img title="s1" src="(https://images2.alphacoders.com/131/1315111.jpg)" alt ="Marvel logo" width="400" />
-</p>
+<img title="s1" src="https://static.wikia.nocookie.net/breakingbad/images/9/95/BB_S4_poster.jpg/revision/latest?cb=20220731155420" alt ="Breaking bad" width="400" />
+<img title="s1" src="https://static.toiimg.com/photo/msid-62005423/62005423.jpg?79577" alt ="Cargo" width="400" />
 <h1>Homepage</h1>
   <br>
 The Home Page consists of 5 main sections:
