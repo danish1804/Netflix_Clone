@@ -10,8 +10,7 @@
   This is a clone of Netflix website built using <strong><em>React.JS</em></strong>. The project showcases a responsive UI with a navigation bar, interactive movie sections, and dynamic movie cards. It utilizes TMDB as the movie database and incorporates React Router, Hooks, and CSS Modules for efficient development.
   <br><br> 
 </p>
-<img title="s1" src="public/s2.png" alt ="Screenshot" />
-  <img title="s1" src="public/s1.png" alt ="Screenshot" />
+<img title="s1" src="(https://images2.alphacoders.com/131/1315111.jpg)" alt ="Marvel logo" width="400" />
 <h1>Homepage</h1>
   <br>
 The Home Page consists of 5 main sections:
@@ -24,14 +23,14 @@ The Home Page consists of 5 main sections:
 - Search bar
 
 ***2) Featured movie, which includes:***
-- Poster of the featired movie
+- Poster of the featured movie
 - Name of the featured movie
 - Play button
 - More info button
 
 ***2) Movies Slides:***
 It's a slideshow showcasing a movie. It includes 4 section
-- Recommanded
+- Recommended
 - Action
 - Sci-fi
 - Comedy
